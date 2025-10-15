@@ -1,9 +1,12 @@
+```bash
 python3 predict.py
 2025-10-15 09:00:16.965724: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
 2025-10-15 09:00:20.268241: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
 2025-10-15 09:00:20.269277: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
 To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 2025-10-15 09:00:24.137293: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+```
+
 ============================================================
 IDŐSOR ELŐREJELZÉS LSTM MODELLEL
 ============================================================
